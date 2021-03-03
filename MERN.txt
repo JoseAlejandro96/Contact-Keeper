@@ -2,3 +2,13 @@ Mongo db
 express
 node js
 React
+
+/**
+*   npm run server === npm run nodemon server.js
+*/
+
+// Quitar GIT
+rm -rf .git
+
+// Font Awesome Kit
+<script src="https://kit.fontawesome.com/6b2f842ef4.js" crossorigin="anonymous"></script>
